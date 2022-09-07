@@ -1,0 +1,61 @@
+# Project exclude paths
+/.gradle/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Constructors/Theory/out/
+/Topics/Constructors/Theory/out/production/classes/
+/Topics/Enum/Days of the week/out/
+/Topics/Enum/Days of the week/out/production/classes/
+/Topics/Enum/Properties of Enum/out/
+/Topics/Enum/Properties of Enum/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Enum/Theory/out/
+/Topics/Enum/Theory/out/production/classes/
+/Topics/Enum/valueOf() method/out/
+/Topics/Enum/valueOf() method/out/production/classes/
+/Topics/For loop and lists/List indexes/out/
+/Topics/For loop and lists/List indexes/out/production/classes/
+/Topics/For loop and lists/Print all elements/out/
+/Topics/For loop and lists/Print all elements/out/production/classes/
+/Topics/For loop and lists/Sum of numbers/out/
+/Topics/For loop and lists/Sum of numbers/out/production/classes/
+/Topics/For loop and lists/Theory/out/
+/Topics/For loop and lists/Theory/out/production/classes/
+/Topics/For loop and lists/Two numbers in a row/out/
+/Topics/For loop and lists/Two numbers in a row/out/production/classes/
+/Topics/Introduction to MutableList/Printing the last element/out/
+/Topics/Introduction to MutableList/Printing the last element/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Introduction to MutableList/Theory/out/
+/Topics/Introduction to MutableList/Theory/out/production/classes/
+/Topics/Member functions/Application as a class/out/
+/Topics/Member functions/Application as a class/out/production/classes/
+/Topics/Member functions/Car/out/
+/Topics/Member functions/Car/out/production/classes/
+/Topics/Member functions/Keyword to declare a member function/out/
+/Topics/Member functions/Keyword to declare a member function/out/production/classes/
+/Topics/Member functions/Patient needs a doctor/out/
+/Topics/Member functions/Patient needs a doctor/out/production/classes/
+/Topics/Member functions/Theory/out/
+/Topics/Member functions/Theory/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
+/Topics/Processing strings/Determine the value/out/
+/Topics/Processing strings/Determine the value/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Work with MutableLists/Adding lists/out/
+/Topics/Work with MutableLists/Adding lists/out/production/classes/
+/Topics/Work with MutableLists/Empty/out/
+/Topics/Work with MutableLists/Empty/out/production/classes/
+/Topics/Work with MutableLists/Theory/out/
+/Topics/Work with MutableLists/Theory/out/production/classes/
+/Topics/Work with MutableLists/Yet another list/out/
+/Topics/Work with MutableLists/Yet another list/out/production/classes/
+/Unit Converter/task/build/
+/Unit Converter/task/out/
+/Unit Converter/task/out/production/classes/
